@@ -1,0 +1,12 @@
+'use strict';
+//https://javascript.info/types#string-quotes
+
+/*
+let name = "Ilya";
+
+alert(`hello ${1}`); // hello 1
+
+alert(`hello ${"name"}`); // hello name
+
+alert(`hello ${name}`); // hello Ilya
+*/
