@@ -1,2 +1,2 @@
-'use strict';
-alert('I’m JavaScript!');
+/* 'use strict';
+alert('I’m JavaScript!'); */
