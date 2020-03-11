@@ -1,0 +1,28 @@
+{
+  "name": "js-info-tutorial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "arrow-functions-basics.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "chai": "^4.2.0"
+  },
+  "devDependencies": {
+    "mocha": "^7.1.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/randomSveta/js-info.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/randomSveta/js-info/issues"
+  },
+  "homepage": "https://github.com/randomSveta/js-info#readme"
+}
